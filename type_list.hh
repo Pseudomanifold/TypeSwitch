@@ -1,8 +1,6 @@
 #ifndef TYPE_LIST_HH__
 #define TYPE_LIST_HH__
 
-#include <type_traits>
-
 struct EmptyType
 {
 };
